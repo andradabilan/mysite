@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Under construction...</title>
+    <link>https://andradabilan.github.io/authors/admin/</link>
+    <description>Recent content in admin on Under construction...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://andradabilan.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://andradabilan.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andradabilan.github.io/author/admin/</guid>
+      <description>My research in empirical banking explores how financial regulations spread between markets. In particular, I have extensively researched the OTC markets for swaps and bonds, the real effects of bank capital regulation, and the effects of non-conventional monetary policy on lending terms. Prior to my PhD, I was a consultant at Frontier Economics in London, where I specialized in regulatory issues and competition policy for financial services.</description>
+    </item>
+    
+  </channel>
+</rss>

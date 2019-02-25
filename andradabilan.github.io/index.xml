@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Under construction... on Under construction...</title>
+    <link>https://andradabilan.github.io/</link>
+    <description>Recent content in Under construction... on Under construction...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Credit Supply and Human Capital: Evidence from Bank Pension Liabilities</title>
+      <link>https://andradabilan.github.io/publication/clothing-search/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://andradabilan.github.io/publication/clothing-search/</guid>
+      <description>
+
+&lt;h1 id=&#34;does-this-page-contain-latex-math-true-false&#34;&gt;Does this page contain LaTeX math? (true/false)&lt;/h1&gt;
+
+&lt;p&gt;math = true&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Applications in Banking: Securitization and Global Banking</title>
+      <link>https://andradabilan.github.io/publication/econometrics-chapter/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://andradabilan.github.io/publication/econometrics-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Price Discrimination in the OTC Market</title>
+      <link>https://andradabilan.github.io/publication/job-market/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://andradabilan.github.io/publication/job-market/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lending Conditions after a Liquidity Shock</title>
+      <link>https://andradabilan.github.io/publication/person-re-id/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://andradabilan.github.io/publication/person-re-id/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
